@@ -1,3 +1,3 @@
-# Razvoj mobilnih aplikacija, *Hello World*
+# NoSQL baze podataka
 
-Repozitorijum sa projektom sa prvog časa praktičnih vežbi iz predmeta Razvoj mobilnih aplikacija.
+Repozitorijum sa projektima sa prakticnih vežbi iz predmeta NoSQL baze podataka.
